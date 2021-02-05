@@ -8,7 +8,7 @@
 
 My name is Breno Gomes, i'm a ADS Student.
 
-- 🧠 Learning about JS and data logic programming;
+- 🧠 Learning about JS and logic programming;
 - 🗣 Let’s talk about Javascript, shall we?
 
 ---
