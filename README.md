@@ -1,11 +1,11 @@
-<h1 align="center">Hello, wellcome to my profile!</h1>
-<h3 align="center">My name is Breno Gomes, i'm Software Developer.</h3>
+<h2 align="center">Hello, wellcome to my profile!</h2>
+<h4 align="center">My name is Breno Gomes, i'm Software Developer.</h4>
 
 <br>
 
-- 📚 I’m currently learning **C# / .NET**
-
-<br>
+- 🧠  I’m currently learning **C# / .NET**
+- 🎓 Studying System Analisys and Development at UNESA
+- 💻 Working on a lot projects at [@GFT](https://www.gft.com/br/pt)
 
 ---
 
@@ -19,6 +19,5 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbrnn&show_icons=true&theme=dracula) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbrnn&show_icons=true&theme=dracula) &nbsp; &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesbrnn&layout=compact&theme=dracula&hide=pascal)
-
