@@ -52,7 +52,9 @@ Currently working mainly with the **C# / .NET ecosystem** and technologies commo
 
 ---
 
+<br>
 <p align="center"> <i>Engineering software that is simple to understand, reliable to operate and ready to scale.</i> </p>
+<br><br>
 
 <p align="center">
   <img
@@ -60,3 +62,5 @@ Currently working mainly with the **C# / .NET ecosystem** and technologies commo
     alt="Isometric contribution calendar"
   />
 </p>
+
+
