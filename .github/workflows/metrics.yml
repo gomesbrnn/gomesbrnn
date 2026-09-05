@@ -18,7 +18,10 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          
           base: header
           config_order: base.header, isocalendar
+          config_display: large
+          
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
