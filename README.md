@@ -1,21 +1,62 @@
-<h2 align="center">Hello, wellcome to my profile!</h2>
-<h4 align="center">My name is Breno Gomes, i'm Software Developer.</h4>
+<h1 align="center">
+  Breno Gomes
+</h1>
 
-<br>
+<h3 align="center">
+  Software Engineer @ B3 S.A.
+</h3>
 
-- 🧠  I’m currently learning **C# / .NET**
-- 🎓 Studying System Analisys and Development at UNESA
-- 💻 Working on a lot projects at [@GFT](https://www.gft.com/br/pt)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gomesbrnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gomesbrnn" height="30" width="40" /></a>
+<p align="center">
+  Building reliable, scalable and maintainable software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+I'm a Software Engineer at **B3 S.A.**, focused primarily on backend development and software engineering.
+
+My main interests are:
+
+- Software architecture
+- Distributed systems
+- API design
+- Scalable and reliable applications
+- Performance and maintainability
+
+Currently working mainly with the **C# / .NET ecosystem** and technologies commonly used in modern backend systems.
+
+### Connect With Me
+<p> <a href="https://linkedin.com/in/gomesbrnn"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesbrnn&theme=dark) &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbrnn&show_icons=true&theme=dark)
+
+### Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET"/>
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+---
+
+<p align="center"> <i>Engineering software that is simple to understand, reliable to operate and ready to scale.</i> </p>
+
+<p align="center">
+  <img
+    src="./metrics.plugin.isocalendar.svg"
+    alt="Isometric contribution calendar"
+  />
+</p>
